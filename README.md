@@ -1,8 +1,11 @@
+# Hi 👋, I'm Chee Chung
+
+
 # 💫 About Me:
 When I’m not off on an adventure (hence the occasional inactivity), I’m working on improving my development skills through projects in different languages
 
 - 🔭 I’m currently working on a trail navigating app
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React.js and Advanced Programming Concepts in C#
 - ⚡ Fun fact: Daydreaming is my default mode, it’s where ideas come alive.
 
 ## 🌐 Socials:
