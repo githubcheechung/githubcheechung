@@ -4,8 +4,9 @@
 # 💫 About Me:
 When I’m not off on an adventure (hence the occasional inactivity), I’m working on improving my development skills through projects in different languages
 
-- 🔭 I’m currently working on a trail navigating app
-- 🌱 I’m currently learning React.js and Advanced Programming Concepts in C#
+- 🏥 Currently interning at UZ Brussels
+- 🔬 I’m currently working on a digital awareness tool
+- 🌱 I’m currently learning Spring Boot and React Native
 - ⚡ Fun fact: Daydreaming is my default mode, it’s where ideas come alive.
 
 ## 🌐 Socials:
